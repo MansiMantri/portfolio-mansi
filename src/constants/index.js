@@ -1,5 +1,5 @@
 import project1 from "../assets/projects/googledoc.jpg";
-import project2 from "../assets/projects/Coffeeapp.jpg";
+import project2 from "../assets/projects/coffeeapp.jpg";
 import project3 from "../assets/projects/aivoice.jpg";
 
 
@@ -52,5 +52,5 @@ export const PROJECTS = [
 export const CONTACT = {
   address: "767 Fifth Avenue, New York, NY 10153 ",
  
-  email: "masnimantri902@gmail.com",
+  email: "mansimantri902@gmail.com",
 };
